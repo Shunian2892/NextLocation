@@ -1,8 +1,10 @@
-package com.example.nextlocation;
+package com.example.nextlocation.BoundaryLayer.Launcher;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.nextlocation.R;
 
 public class MainActivity extends AppCompatActivity {
 
